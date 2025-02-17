@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram id="B15ZubOSBAh_2AxI3z3t" name="Страница — 1">
+    <mxGraphModel dx="1033" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qUifISJQAsTCwcM0Papn-1" target="bsFU1i1V22q_sOc3Pv8j-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-13" value="[2]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsFU1i1V22q_sOc3Pv8j-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.021" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qUifISJQAsTCwcM0Papn-1" target="bsFU1i1V22q_sOc3Pv8j-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-15" value="[3]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsFU1i1V22q_sOc3Pv8j-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.0843" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qUifISJQAsTCwcM0Papn-1" value="Data Lakehouse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bsFU1i1V22q_sOc3Pv8j-1" target="qUifISJQAsTCwcM0Papn-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-17" value="[5]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsFU1i1V22q_sOc3Pv8j-11" vertex="1" connectable="0">
+          <mxGeometry x="0.134" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-1" value="DWH" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bsFU1i1V22q_sOc3Pv8j-2" target="qUifISJQAsTCwcM0Papn-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-12" value="[1]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsFU1i1V22q_sOc3Pv8j-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2598" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-2" value="Финтех" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-3" value="BI Портал самообслуживания&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-4" value="AI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bsFU1i1V22q_sOc3Pv8j-5" target="qUifISJQAsTCwcM0Papn-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-16" value="[4]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsFU1i1V22q_sOc3Pv8j-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.4154" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bsFU1i1V22q_sOc3Pv8j-5" target="bsFU1i1V22q_sOc3Pv8j-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-18" value="[6]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsFU1i1V22q_sOc3Pv8j-7" vertex="1" connectable="0">
+          <mxGeometry x="0.019" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-5" value="Клиника" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsFU1i1V22q_sOc3Pv8j-19" value="[1] - Финтех передает данные доменов в DLH (Data Lakehouse).&lt;div&gt;[2] - AI&amp;nbsp;использует данные для анализа и построения моделей.&lt;/div&gt;&lt;div&gt;[3] - Портал BI (Business Intelligence) получает данные из DLH для формирования отчетности.&lt;/div&gt;&lt;div&gt;[4] - Клиники начинают передавать часть данных по новому процессу в DLH.&lt;/div&gt;&lt;div&gt;[5] - DWH (Data Warehouse) постепенно мигрирует данные доменов в DLH.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;[6] - Клиники продолжают передавать часть данных в DWH по старому процессу.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="520" width="550" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
